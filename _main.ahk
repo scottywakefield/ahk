@@ -1,1 +1,2 @@
-#Include %A_ScriptDir%\lib\newUln.ahk
+#Include .\lib\newUln.ahk
+#Include .\lib\gesundheit.ahk
